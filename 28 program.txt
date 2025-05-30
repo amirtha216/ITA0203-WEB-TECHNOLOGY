@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+ <style>
+ body {
+  background-image: url('https://tinyjpg.com/images/social/website.jpg');
+  background-size: cover;
+ }
+ </style>
+ </head>
+ <body>
+ <h1>Internal Background Image</h1>
+ </body>
+ </html>
+
